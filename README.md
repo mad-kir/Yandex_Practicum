@@ -18,3 +18,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Статистический анализ пользователей сервиса аренды самокатов
 
    Стэк: pandas, numpy, scipy, matplotlib
+
+3. Vino_Streamchik:
+
+   Проект: Сборный проект №1 (Исследовательский и статистический анализ)
+
+   Тема: Анализ данных магазина компьютерных игр
+
+   Стэк: pandas, numpy, scipy, matplotlib
