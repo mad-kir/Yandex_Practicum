@@ -11,3 +11,10 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    
    Стэк: pandas, matplotlib
 
+2. Vino_GoFast:
+
+   Проект: Статистический анализ данных
+
+   Тема: Статистический анализ пользователей сервиса аренды самокатов
+
+   Стэк: pandas, numpy, scipy, matplotlib
