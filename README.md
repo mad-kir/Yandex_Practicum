@@ -26,3 +26,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Анализ данных магазина компьютерных игр
 
    Стэк: pandas, numpy, scipy, matplotlib
+
+4. Vino_Megaline:
+
+   Проект: Введение в машинное обучение
+
+   Тема: Рекомендация тарифов
+
+   Стэк: pandas, sklearn
