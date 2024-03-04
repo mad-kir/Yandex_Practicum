@@ -34,3 +34,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Рекомендация тарифов
 
    Стэк: pandas, sklearn
+
+5. Vino_Betabank:
+
+   Проект: Обучение с учителем
+
+   Тема: Отток клиентов
+
+   Стэк: pandas, sklearn, imblearn (under и over sampling)
