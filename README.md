@@ -42,3 +42,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Отток клиентов
 
    Стэк: pandas, sklearn, imblearn (under и over sampling)
+
+6. Vino_Glavrosgosneft:
+
+   Проект: Машинное обучение в бизнесе
+
+   Тема: Выбор локации для скважины
+
+   Стэк: pandas, numpy, sklearn
