@@ -50,3 +50,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Выбор локации для скважины
 
    Стэк: pandas, numpy, sklearn
+
+7. Vino_Cifry_Gold_Industry:
+
+   Проект: Сборный проект №2 (Машинное обучение)
+
+   Тема: Восстановление золота из руды
+
+   Стэк: pandas, numpy, matplotlib, sklearn
