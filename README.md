@@ -58,3 +58,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Восстановление золота из руды
 
    Стэк: pandas, numpy, matplotlib, sklearn
+
+8. Vino_HotPotop:
+
+   Проект: Линейная алгебра
+
+   Тема: Защита персональных данных клиентов
+
+   Стэк: pandas, numpy, sklearn
