@@ -73,4 +73,4 @@ My projects from the Data Science bootcamp in Yandex Practicum.
 
    Тема: Определение стоимости автомобилей
 
-   Стэк: pandas, numpy, sklearn
+   Стэк: pandas, numpy, matplotlib, phik, sklearn, xgboost, lightgbm, catboost
