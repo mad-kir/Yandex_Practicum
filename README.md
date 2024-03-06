@@ -74,3 +74,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Определение стоимости автомобилей
 
    Стэк: pandas, numpy, matplotlib, phik, sklearn, xgboost, lightgbm, catboost
+
+10. Vino_Taxi:
+
+    Проект: Временные ряды
+
+    Тема: Прогнозирование заказов такси
+
+    Стэк: pandas, numpy, matplotlib, statsmodels, phik, sklearn
