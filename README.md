@@ -66,3 +66,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
    Тема: Защита персональных данных клиентов
 
    Стэк: pandas, numpy, sklearn
+
+9. Vino_NeBitNeKrashen:
+
+   Проект: Численнные методы
+
+   Тема: Определение стоимости автомобилей
+
+   Стэк: pandas, numpy, sklearn
