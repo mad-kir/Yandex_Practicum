@@ -82,3 +82,11 @@ My projects from the Data Science bootcamp in Yandex Practicum.
     Тема: Прогнозирование заказов такси
 
     Стэк: pandas, numpy, matplotlib, statsmodels, phik, sklearn
+
+11. Vino_Vikishop:
+
+    Проект: Машинное обучение для текстов
+
+    Тема: Классификация токсичных комментариев
+
+    Стэк: pandas, numpy, matplotlib, re, spacy, nltk, sklearn, catboost
