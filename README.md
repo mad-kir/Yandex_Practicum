@@ -89,4 +89,12 @@ My projects from the Data Science bootcamp in Yandex Practicum.
 
     Тема: Классификация токсичных комментариев
 
-    Стэк: pandas, numpy, matplotlib, re, spacy, nltk, sklearn, catboost
+    Стэк: pandas, numpy, matplotlib, spacy, nltk, sklearn, catboost
+
+12. Vino_Teledom:
+
+    Проект: Выпускной проект
+
+    Тема: Прогноз оттока клиентов
+
+    Стэк: pandas, numpy, matplotlib, phik, sklearn, catboost
